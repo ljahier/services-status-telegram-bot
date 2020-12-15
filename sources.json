@@ -1,0 +1,10 @@
+[
+    {"name": "Google Workspace Status", "url": "https://www.google.com/appsstatus/rss/en"},
+    {"name": "GCP Status", "url": "https://status.cloud.google.com/feed.atom"},
+    {"name": "Azure Status", "url": "https://azurestatuscdn.azureedge.net/en-us/status/feed/"},
+    {"name": "Github Status", "url": "https://www.githubstatus.com/history.rss"},
+    {"name": "Clever Cloud Status", "url": "https://www.clevercloudstatus.com/rss"},
+    {"name": "Travaux OVH Status", "url": "http://travaux.ovh.net/rss.php"},
+    {"name": "OVH Status", "url": "http://status.ovh.net/rss.php"},
+    {"name": "Discord Status", "url": "https://discordstatus.com/history.rss"}
+]

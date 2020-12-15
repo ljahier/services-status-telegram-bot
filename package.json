@@ -1,0 +1,28 @@
+{
+  "name": "services-status-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stratorys/services-status-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "Lucas JAHIER <lucas.jahier@hey.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stratorys/services-status-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Stratorys/services-status-telegram-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "rss-parser": "^3.10.0"
+  }
+}
